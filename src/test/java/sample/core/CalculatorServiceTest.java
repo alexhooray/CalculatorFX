@@ -207,12 +207,28 @@ class CalculatorServiceTest {
     }
 
     @Test
-    @DisplayName("Delete method works correct")
-    void deleteMethodWorksCorrect() {
+    @DisplayName("Delete method works correct after input method")
+    void deleteMethodWorksCorrectAfterInputMethod() {
         calculatorService.input(Operation.ONE);
         calculatorService.input(Operation.TWO);
         calculatorService.input(Operation.THREE);
         calculatorService.input(Operation.DIVIDE);
+        calculatorService.delete();
+        assertEquals("0", calculatorService.show());
+    }
+
+    @Test
+    @DisplayName("Delete method works correct after calculate method")
+    void deleteMethodWorksCorrectAfterCalculateMethod() {
+        calculatorService.input(Operation.ZERO);
+        calculatorService.input(Operation.FOUR);
+        calculatorService.input(Operation.FIVE);
+        calculatorService.input(Operation.SIX);
+        calculatorService.input(Operation.PLUS);
+        calculatorService.input(Operation.SEVEN);
+        calculatorService.input(Operation.EIGHT);
+        calculatorService.input(Operation.NINE);
+        assertEquals(1245, calculatorService.calculate());
         calculatorService.delete();
         assertEquals("0", calculatorService.show());
     }
