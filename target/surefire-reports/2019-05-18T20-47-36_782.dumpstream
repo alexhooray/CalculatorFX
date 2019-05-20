@@ -1,0 +1,12 @@
+# Created at 2019-05-18T20:47:43.467
+��� 18, 2019 8:47:43 PM org.junit.jupiter.engine.descriptor.DisplayNameUtils determineDisplayName
+
+# Created at 2019-05-18T20:47:43.490
+WARNING: Configuration error: @DisplayName on [void CalculatorServiceTest.ttest()] must be declared with a non-empty value.
+
+# Created at 2019-05-18T20:47:43.703
+��� 18, 2019 8:47:43 PM org.junit.jupiter.engine.descriptor.DisplayNameUtils determineDisplayName
+
+# Created at 2019-05-18T20:47:43.725
+WARNING: Configuration error: @DisplayName on [void CalculatorServiceTest.ttest()] must be declared with a non-empty value.
+

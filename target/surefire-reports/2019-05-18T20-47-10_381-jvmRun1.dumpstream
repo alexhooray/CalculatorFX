@@ -1,0 +1,380 @@
+# Created at 2019-05-18T20:47:18.100
+Unexpected IOException: I,1,sun.desktop,windows
+
+
+# Created at 2019-05-18T20:47:18.152
+Unexpected IOException: I,1,awt.toolkit,sun.awt.windows.WToolkit
+
+
+# Created at 2019-05-18T20:47:18.200
+Unexpected IOException: I,1,java.specification.version,11
+
+
+# Created at 2019-05-18T20:47:18.220
+Unexpected IOException: I,1,sun.cpu.isalist,amd64
+
+
+# Created at 2019-05-18T20:47:18.240
+Unexpected IOException: I,1,sun.jnu.encoding,Cp1251
+
+
+# Created at 2019-05-18T20:47:18.264
+Unexpected IOException: I,1,java.class.path,C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CIdeaProjects\005CCalculatorFX\005Ctarget\005Ctest-classes;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CIdeaProjects\005CCalculatorFX\005Ctarget\005Cclasses;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-controls\005C12.0.1\005Cjavafx-controls-12.0.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-controls\005C12.0.1\005Cjavafx-controls-12.0.1-win.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-graphics\005C12.0.1\005Cjavafx-graphics-12.0.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-graphics\005C12.0.1\005Cjavafx-graphics-12.0.1-win.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-base\005C12.0.1\005Cjavafx-base-12.0.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-base\005C12.0.1\005Cjavafx-base-12.0.1-win.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-api\005C5.4.2\005Cjunit-jupiter-api-5.4.2.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Capiguardian\005Capiguardian-api\005C1.0.0\005Capiguardian-api-1.0.0.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copentest4j\005Copentest4j\005C1.1.1\005Copentest4j-1.1.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-commons\005C1.4.2\005Cjunit-platform-commons-1.4.2.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-engine\005C5.4.2\005Cjunit-jupiter-engine-5.4.2.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-engine\005C1.4.2\005Cjunit-platform-engine-1.4.2.jar;
+
+
+# Created at 2019-05-18T20:47:18.289
+Unexpected IOException: I,1,java.vm.vendor,Oracle Corporation
+
+
+# Created at 2019-05-18T20:47:18.318
+Unexpected IOException: I,1,sun.arch.data.model,64
+
+
+# Created at 2019-05-18T20:47:18.344
+Unexpected IOException: I,1,user.variant,
+
+
+# Created at 2019-05-18T20:47:18.370
+Unexpected IOException: I,1,java.vendor.url,http://java.oracle.com/
+
+
+# Created at 2019-05-18T20:47:18.390
+Unexpected IOException: I,1,user.timezone,Europe/Moscow
+
+
+# Created at 2019-05-18T20:47:18.419
+Unexpected IOException: I,1,os.name,Windows 10
+
+
+# Created at 2019-05-18T20:47:18.449
+Unexpected IOException: I,1,java.vm.specification.version,11
+
+
+# Created at 2019-05-18T20:47:18.571
+Unexpected IOException: I,1,sun.java.launcher,SUN_STANDARD
+
+
+# Created at 2019-05-18T20:47:18.600
+Unexpected IOException: I,1,user.country,RU
+
+
+# Created at 2019-05-18T20:47:18.625
+Unexpected IOException: I,1,sun.boot.library.path,C:\005CProgram Files\005CJava\005Cjdk-11.0.1\005Cbin
+
+
+# Created at 2019-05-18T20:47:18.645
+Unexpected IOException: I,1,sun.java.command,C:\005CUsers\005CCD86~1\005CAppData\005CLocal\005CTemp\005Csurefire18345129765815048827\005Csurefirebooter9953911918912770949.jar C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CAppData\005CLocal\005CTemp\005Csurefire18345129765815048827 2019-05-18T20-47-10_381-jvmRun1 surefire3768494329376999780tmp surefire_05400158987988815951tmp
+
+
+# Created at 2019-05-18T20:47:18.666
+Unexpected IOException: I,1,jdk.debug,release
+
+
+# Created at 2019-05-18T20:47:18.690
+Unexpected IOException: I,1,surefire.test.class.path,C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CIdeaProjects\005CCalculatorFX\005Ctarget\005Ctest-classes;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CIdeaProjects\005CCalculatorFX\005Ctarget\005Cclasses;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-controls\005C12.0.1\005Cjavafx-controls-12.0.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-controls\005C12.0.1\005Cjavafx-controls-12.0.1-win.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-graphics\005C12.0.1\005Cjavafx-graphics-12.0.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-graphics\005C12.0.1\005Cjavafx-graphics-12.0.1-win.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-base\005C12.0.1\005Cjavafx-base-12.0.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copenjfx\005Cjavafx-base\005C12.0.1\005Cjavafx-base-12.0.1-win.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-api\005C5.4.2\005Cjunit-jupiter-api-5.4.2.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Capiguardian\005Capiguardian-api\005C1.0.0\005Capiguardian-api-1.0.0.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Copentest4j\005Copentest4j\005C1.1.1\005Copentest4j-1.1.1.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-commons\005C1.4.2\005Cjunit-platform-commons-1.4.2.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cjupiter\005Cjunit-jupiter-engine\005C5.4.2\005Cjunit-jupiter-engine-5.4.2.jar;C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository\005Corg\005Cjunit\005Cplatform\005Cjunit-platform-engine\005C1.4.2\005Cjunit-platform-engine-1.4.2.jar;
+
+
+# Created at 2019-05-18T20:47:18.709
+Unexpected IOException: I,1,sun.cpu.endian,little
+
+
+# Created at 2019-05-18T20:47:18.735
+Unexpected IOException: I,1,user.home,C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439
+
+
+# Created at 2019-05-18T20:47:18.761
+Unexpected IOException: I,1,user.language,ru
+
+
+# Created at 2019-05-18T20:47:18.780
+Unexpected IOException: I,1,java.specification.vendor,Oracle Corporation
+
+
+# Created at 2019-05-18T20:47:18.806
+Unexpected IOException: I,1,java.version.date,2018-10-16
+
+
+# Created at 2019-05-18T20:47:18.834
+Unexpected IOException: I,1,java.home,C:\005CProgram Files\005CJava\005Cjdk-11.0.1
+
+
+# Created at 2019-05-18T20:47:18.859
+Unexpected IOException: I,1,file.separator,\005C
+
+
+# Created at 2019-05-18T20:47:18.886
+Unexpected IOException: I,1,basedir,C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CIdeaProjects\005CCalculatorFX
+
+
+# Created at 2019-05-18T20:47:18.914
+Unexpected IOException: I,1,java.vm.compressedOopsMode,32-bit
+
+
+# Created at 2019-05-18T20:47:18.941
+Unexpected IOException: I,1,line.separator,\000D\000A
+
+
+# Created at 2019-05-18T20:47:18.968
+Unexpected IOException: I,1,java.specification.name,Java Platform API Specification
+
+
+# Created at 2019-05-18T20:47:18.998
+Unexpected IOException: I,1,java.vm.specification.vendor,Oracle Corporation
+
+
+# Created at 2019-05-18T20:47:19.026
+Unexpected IOException: I,1,java.awt.graphicsenv,sun.awt.Win32GraphicsEnvironment
+
+
+# Created at 2019-05-18T20:47:19.055
+Unexpected IOException: I,1,surefire.real.class.path,C:\005CUsers\005CCD86~1\005CAppData\005CLocal\005CTemp\005Csurefire18345129765815048827\005Csurefirebooter9953911918912770949.jar
+
+
+# Created at 2019-05-18T20:47:19.096
+Unexpected IOException: I,1,user.script,
+
+
+# Created at 2019-05-18T20:47:19.138
+Unexpected IOException: I,1,sun.management.compiler,HotSpot 64-Bit Tiered Compilers
+
+
+# Created at 2019-05-18T20:47:19.175
+Unexpected IOException: I,1,java.runtime.version,11.0.1+13-LTS
+
+
+# Created at 2019-05-18T20:47:19.248
+Unexpected IOException: I,1,user.name,\0410\043B\0435\043A\0441\0435\0439
+
+
+# Created at 2019-05-18T20:47:19.321
+Unexpected IOException: I,1,path.separator,;
+
+
+# Created at 2019-05-18T20:47:19.376
+Unexpected IOException: I,1,os.version,10.0
+
+
+# Created at 2019-05-18T20:47:19.493
+Unexpected IOException: I,1,java.runtime.name,Java(TM) SE Runtime Environment
+
+
+# Created at 2019-05-18T20:47:19.530
+Unexpected IOException: I,1,file.encoding,Cp1251
+
+
+# Created at 2019-05-18T20:47:19.591
+Unexpected IOException: I,1,java.vm.name,Java HotSpot(TM) 64-Bit Server VM
+
+
+# Created at 2019-05-18T20:47:19.653
+Unexpected IOException: I,1,java.vendor.version,18.9
+
+
+# Created at 2019-05-18T20:47:19.688
+Unexpected IOException: I,1,localRepository,C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005C.m2\005Crepository
+
+
+# Created at 2019-05-18T20:47:19.723
+Unexpected IOException: I,1,java.vendor.url.bug,http://bugreport.java.com/bugreport/
+
+
+# Created at 2019-05-18T20:47:19.751
+Unexpected IOException: I,1,java.io.tmpdir,C:\005CUsers\005CCD86~1\005CAppData\005CLocal\005CTemp\005C
+
+
+# Created at 2019-05-18T20:47:19.782
+Unexpected IOException: I,1,java.version,11.0.1
+
+
+# Created at 2019-05-18T20:47:19.810
+Unexpected IOException: I,1,user.dir,C:\005CUsers\005C\0410\043B\0435\043A\0441\0435\0439\005CIdeaProjects\005CCalculatorFX
+
+
+# Created at 2019-05-18T20:47:19.841
+Unexpected IOException: I,1,os.arch,amd64
+
+
+# Created at 2019-05-18T20:47:19.885
+Unexpected IOException: I,1,java.vm.specification.name,Java Virtual Machine Specification
+
+
+# Created at 2019-05-18T20:47:19.920
+Unexpected IOException: I,1,java.awt.printerjob,sun.awt.windows.WPrinterJob
+
+
+# Created at 2019-05-18T20:47:19.953
+Unexpected IOException: I,1,idea.version2019.1.2,true
+
+
+# Created at 2019-05-18T20:47:19.984
+Unexpected IOException: I,1,sun.os.patch.level,
+
+
+# Created at 2019-05-18T20:47:20.015
+Unexpected IOException: I,1,java.library.path,C:\005CProgram Files\005CJava\005Cjdk-11.0.1\005Cbin;C:\005CWindows\005CSun\005CJava\005Cbin;C:\005CWindows\005Csystem32;C:\005CWindows;C:\005CWindows\005Csystem32;C:\005CWindows;C:\005CWindows\005CSystem32\005CWbem;C:\005CWindows\005CSystem32\005CWindowsPowerShell\005Cv1.0\005C;C:\005CProgram Files\005CJava\005Cjdk-11.0.1\005Cbin;C:\005CProgram Files\005CGit\005Ccmd;C:\005CProgram Files\005CJava\005Cjdk-11.0.1;;.
+
+
+# Created at 2019-05-18T20:47:20.049
+Unexpected IOException: I,1,java.vendor,Oracle Corporation
+
+
+# Created at 2019-05-18T20:47:20.081
+Unexpected IOException: I,1,java.vm.info,mixed mode
+
+
+# Created at 2019-05-18T20:47:20.113
+Unexpected IOException: I,1,java.vm.version,11.0.1+13-LTS
+
+
+# Created at 2019-05-18T20:47:20.146
+Unexpected IOException: I,1,sun.io.unicode.encoding,UnicodeLittle
+
+
+# Created at 2019-05-18T20:47:20.179
+Unexpected IOException: I,1,java.class.version,55.0
+
+
+# Created at 2019-05-18T20:47:21.000
+Unexpected IOException: 1,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,CalculatorServiceTest,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.145
+Unexpected IOException: 5,1,CalculatorServiceTest,correctValueAfterSingleOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.296
+Unexpected IOException: 6,1,CalculatorServiceTest,correctValueAfterSingleOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.363
+Unexpected IOException: 5,1,CalculatorServiceTest,noInputZeroOutput,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.397
+Unexpected IOException: 6,1,CalculatorServiceTest,noInputZeroOutput,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.431
+Unexpected IOException: 5,1,CalculatorServiceTest,notIntegerResultAfterDivide,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.490
+Unexpected IOException: 6,1,CalculatorServiceTest,notIntegerResultAfterDivide,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.518
+Unexpected IOException: 5,1,CalculatorServiceTest,correctResultWithoutLeftSide,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.555
+Unexpected IOException: 6,1,CalculatorServiceTest,correctResultWithoutLeftSide,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.591
+Unexpected IOException: 5,1,CalculatorServiceTest,correctValueAfterMultipleZeroNumbers,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.636
+Unexpected IOException: 6,1,CalculatorServiceTest,correctValueAfterMultipleZeroNumbers,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.676
+Unexpected IOException: 5,1,CalculatorServiceTest,correctResultAfterMultiplyOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.714
+Unexpected IOException: 6,1,CalculatorServiceTest,correctResultAfterMultiplyOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.753
+Unexpected IOException: 5,1,CalculatorServiceTest,correctValueAfterMultipleNumbers,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.843
+Unexpected IOException: 6,1,CalculatorServiceTest,correctValueAfterMultipleNumbers,null,null,null
+
+
+# Created at 2019-05-18T20:47:21.929
+Unexpected IOException: 5,1,CalculatorServiceTest,ttest,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.055
+Unexpected IOException: 8,1,CalculatorServiceTest,ttest,null,expected: <40.0> but was: <-59.0>,null,expected: <40.0> but was: <-59.0>,CalculatorServiceTest.ttest:194 expected: <40.0> but was: <-59.0>,org.opentest4j.AssertionFailedError: expected: <40.0> but was: <-59.0>\000A\0009at CalculatorServiceTest.ttest(CalculatorServiceTest.java:194)\000A
+
+
+# Created at 2019-05-18T20:47:22.118
+Unexpected IOException: 5,1,CalculatorServiceTest,correctResultAfterPlusOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.287
+Unexpected IOException: 6,1,CalculatorServiceTest,correctResultAfterPlusOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.376
+Unexpected IOException: 5,1,CalculatorServiceTest,correctResultAfterDivideOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.468
+Unexpected IOException: 6,1,CalculatorServiceTest,correctResultAfterDivideOperation,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.545
+Unexpected IOException: 5,1,CalculatorServiceTest,correctResultAfterMultiplyingByZero,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.592
+Unexpected IOException: 6,1,CalculatorServiceTest,correctResultAfterMultiplyingByZero,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.629
+Unexpected IOException: 5,1,CalculatorServiceTest,firstOperationShouldBeAddedToZero,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.670
+Unexpected IOException: 6,1,CalculatorServiceTest,firstOperationShouldBeAddedToZero,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.709
+Unexpected IOException: 5,1,CalculatorServiceTest,ignoreMultipleZerosInSecondValue,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.745
+Unexpected IOException: 6,1,CalculatorServiceTest,ignoreMultipleZerosInSecondValue,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.784
+Unexpected IOException: 5,1,CalculatorServiceTest,shouldIgnoreZerosOnly,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.819
+Unexpected IOException: 6,1,CalculatorServiceTest,shouldIgnoreZerosOnly,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.854
+Unexpected IOException: 5,1,CalculatorServiceTest,correctValueAfterFewOperations,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.891
+Unexpected IOException: 6,1,CalculatorServiceTest,correctValueAfterFewOperations,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.927
+Unexpected IOException: 5,1,CalculatorServiceTest,showOneOperator,null,null,null
+
+
+# Created at 2019-05-18T20:47:22.962
+Unexpected IOException: 6,1,CalculatorServiceTest,showOneOperator,null,null,null
+
+
+# Created at 2019-05-18T20:47:23.012
+Unexpected IOException: 5,1,CalculatorServiceTest,correctValueAfterMultipleZerosAndAfterOperator,null,null,null
+
+
+# Created at 2019-05-18T20:47:23.057
+Unexpected IOException: 6,1,CalculatorServiceTest,correctValueAfterMultipleZerosAndAfterOperator,null,null,null
+
+
+# Created at 2019-05-18T20:47:23.138
+Unexpected IOException: 2,1,org.apache.maven.surefire.junitplatform.JUnitPlatformProvider,CalculatorServiceTest,null,null,null
+
+

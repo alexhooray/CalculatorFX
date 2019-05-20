@@ -11,22 +11,23 @@ public enum Operation {
     EIGHT("8"),
     NINE("9"),
     ZERO("0"),
-    PLUS(" + "),
-    MINUS(" - "),
-    MULTIPLY(" * "),
-    DIVIDE(" / ");
+    PLUS("+"),
+    MINUS("-"),
+    MULTIPLY("*"),
+    DIVIDE("/");
+
+    private final String name;
+
+    Operation(String name) {
+        this.name = name;
+    }
 
     public String getName() {
         return name;
     }
 
-    private final String name;
-    Operation(final String name) {
-        this.name = name;
-    }
-
-    static boolean isOperator(Operation operation) {
-        switch (operation) {
+    boolean isOperator() {
+        switch (this) {
             case PLUS:
             case MINUS:
             case MULTIPLY:
@@ -35,7 +36,7 @@ public enum Operation {
         }
     }
 
-    float numberOf() {
+    int numberOf() {
         switch (this) {
             case ONE: return 1;
             case TWO: return 2;

@@ -187,7 +187,6 @@ class CalculatorServiceTest {
         assertEquals(40, calculatorService.calculate());
     }
 
-
     @Test
     @DisplayName("Exception after division by zero")
     void exceptionAfterDivisionByZero() {
@@ -197,7 +196,7 @@ class CalculatorServiceTest {
            calculatorService.input(Operation.ZERO);
            calculatorService.calculate();
        });
-       assertEquals("Error", exception.getMessage());
+       assertEquals("Infinity", exception.getMessage());
     }
 
     @Test

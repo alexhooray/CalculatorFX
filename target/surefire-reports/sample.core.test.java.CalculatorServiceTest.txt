@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: sample.core.test.java.CalculatorServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.036 s <<< FAILURE! - in sample.core.test.java.CalculatorServiceTest
+correctValueAfterMultiplyNumbers  Time elapsed: 0.012 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: expected: <8305> but was: <8306>
+	at sample.core.test.java.CalculatorServiceTest.correctValueAfterMultiplyNumbers(CalculatorServiceTest.java:28)
+
