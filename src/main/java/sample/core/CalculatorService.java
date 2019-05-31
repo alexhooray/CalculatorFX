@@ -29,10 +29,12 @@ public class CalculatorService {
             leftSide = performCalculationBetween(leftSide, rightSide, lastOperation);
         }
         if (lastOperation == Operation.DIVIDE) {
-            return leftSide;
-        } else {
-            return (int) leftSide;
-        }
+            int integerValue = (int) leftSide;
+            float result = leftSide - integerValue;
+            if (result % 2 != 0) {
+                return leftSide;
+            } else return (int) leftSide;
+        } else return (int) leftSide;
     }
 
     public void input(Operation operation) {
